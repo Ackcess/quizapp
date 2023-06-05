@@ -1,7 +1,7 @@
 # quizapp
 An Application designed for random quiz tests for different subjects
 
-# The type of architecture used is Model-View-Controller (MVC) 
+# The type of architecture used Model-View-Controller (MVC) 
 Model-View-Controller (MVC) Offers many optimation as follow to make every development easy to handle.
 
 1. Flexibility and Scalability: MVC supports modular development, making it easier to add new features or modify existing ones without disrupting the entire application.
@@ -10,4 +10,5 @@ Model-View-Controller (MVC) Offers many optimation as follow to make every devel
 
 3. Testability: MVC facilitates unit testing and promotes better test coverage. Since each component has a clear responsibility, it    becomes easier to write unit tests for individual components. 
 
-# MVC promotes the separation of concerns by dividing the application into three distinct components: Model, View, and Controller. Each component has a specific responsibility, which makes the codebase more modular, maintainable, and easier to understand.
+# MVC promotes the separation of concerns by dividing the application into three distinct components
+Model, View, and Controller. Each component has a specific responsibility, which makes the codebase more modular, maintainable, and easier to understand.
